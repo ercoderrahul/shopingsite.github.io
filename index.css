@@ -90,7 +90,7 @@ li a {
 }
 #hero {
   /* flex-wrap: wrap; */
-  background-image: url(https://i.ibb.co/TWGM5Fg/hero4.png);
+  background-image: url(img/hero4.png);
   height: 100%;
   width: 100%;
   background-size: cover;
